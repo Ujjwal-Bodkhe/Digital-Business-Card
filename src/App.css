@@ -1,0 +1,62 @@
+
+.App{
+    font-family: 'Inter', sans-serif;
+    max-width:max-content;
+    margin:auto;
+    background-color:#1A1B21 ;
+    border-radius: 10px;
+}
+.Ujjwal{
+    width:450px;
+    height: 420px;
+    border-radius: 10px 10px 0px 0px;
+    margin:0px;
+}
+
+.Main{
+  max-width: 430px;
+  color: white;
+  margin: 0px 10px;
+  text-align: center;
+}
+.Main h2{
+    color: #F3BF99;
+    font-weight: 500px;
+    font-size:medium
+}
+.Main p{
+    font-size:14px;
+    font-weight: 300;
+}
+
+
+.footer{
+    
+    display: flex;
+    justify-content:center;
+}
+.footer>a{
+    margin: 10px 15px;
+}
+
+.Main a{
+    display:flex;
+    background-color:#5093E2 ;
+    padding: 10px 50px;
+    border: none;
+    border-radius: 5px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.Main img{
+    padding: 2px;
+}
+.Main .a1{
+    align-self: center;
+    background-color:#D1D5DB ;
+}
+
+.Reach{
+    display: flex;
+    justify-content:space-evenly ;
+}
